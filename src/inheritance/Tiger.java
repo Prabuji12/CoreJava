@@ -17,7 +17,9 @@ String tigerColor;
 	public void sound() {
 		super.sound();
 		System.out.println("Tiger will roar");
+		System.out.println("Tiger will roar");
+		System.out.println("Tiger will roar");
+		System.out.println("Tiger will roar");
 	}
-
 	
 }
