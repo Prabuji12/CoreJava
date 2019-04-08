@@ -5,7 +5,7 @@ public class Tiger extends Animal {
 String tigerColor;
 	
 	public Tiger() {
-		System.out.println("Tiger Constructor with no parameter");
+		System.out.println("Tiger Default Constructor");
 	}
 	
 	public Tiger(int height,int length,String color) {
